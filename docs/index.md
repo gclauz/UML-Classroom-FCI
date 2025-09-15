@@ -12,7 +12,7 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
+- [Autores] Ana Julia Yaguti Matilha 
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
