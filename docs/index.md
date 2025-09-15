@@ -28,7 +28,7 @@
 # Autores
 
 * Ana Julia Yaguti Matilha
-* Aluno 2
+* Guilherme Clauz Morlina da Silva
 * Aluno 3
 * Aluno 4
 * Aluno 5
