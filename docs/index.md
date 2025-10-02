@@ -1,77 +1,51 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Ciência da Computação</a></h3>
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
-</center></font>
+MoranaAir</center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
-**Conteúdo**
+*Conteúdo*
 
 - [Autores](#Autores)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
-- [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
-- [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
+- [Descrição do Projeto](#Descrição-do-Projeto)
+- [Diagrama de Classes](#Diagrama-de-Classes)
+- [Diagrama de Senquencia](#Diagrama-de-Sequência)
+- [Integração de Modelos](#Integração-de-Modelos)
+- [Diagrama de Projeto](#Diagrama-de-Projeto)
+- [Integração Sequência + Colaboração](#Integração-Sequência-+-Colaboração)
+- [Diagrama de Estados](#Diagrama-de-Estados)
+- [Referências](#Referências)
 
 
 # Autores
 
 * Ana Julia Yaguti Matilha
 * Guilherme Clauz Morlina da Silva
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
-
-# Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
-
-# Diagrama de Atividades
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
-
-# Diagrama de Casos de Uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
-# Descrição dos Casos de Uso
-
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
-
-# Diagrama de Sequência
-
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+Sistema acadêmico de entregas com drones, desenvolvido em Java com UML e boas práticas de segurança. Permite cadastro de clientes e drones, solicitação de entregas, atribuição automática do drone adequado e histórico de entregas, com validação de dados e prevenção de falhas.
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+Diagrama de relacionamento entre classes para os seus atributos e operações
+![alt text](assets/image.png)
 
-# Diagrama de Estados
+# Diagrama de Sequência
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+Diagrama de ordem e interação dos objetos
+![alt text](assets/image-1.png)
 
-# Diagrama de Implantação
+# Integração de Modelos
+![alt text](assets/image-2.png)
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+# Diagrama de Projeto
+
+# Integração Sequência + Colaboração
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+# Diagrama de Estados
+
+&lt; Lista de referências&gt;
